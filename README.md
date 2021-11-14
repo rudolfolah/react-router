@@ -18,7 +18,19 @@
   <a href="https://travis-ci.com/ReactTraining/react-router"><img src="https://img.shields.io/travis/com/ReactTraining/react-router/master?style=flat-square"></a>
 </p>
 
-**Note: You're currently viewing the `v5` branch for React Router version 4 and 5. You can find the source code for version 6 on [the `main` branch](https://github.com/remix-run/react-router).**
+## Install
+
+If you are using NPM:
+
+```
+npm -i react-router-dom@5.3.0
+```
+
+If you are using Yarn:
+
+```
+yarn add react-router-dom@5.3.0
+```
 
 ## Docs
 
